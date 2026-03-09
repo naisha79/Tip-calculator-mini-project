@@ -1,4 +1,4 @@
-# Tip Calculator 💰
+## Tip Calculator 💰
 
 A simple Python program that calculates how much each person should pay when splitting a bill including a tip.
 
@@ -8,7 +8,7 @@ A simple Python program that calculates how much each person should pay when spl
 * Splits bill between multiple people
 * Rounds payment to 2 decimal places
 
-## Technologies
+## Language used
 
 * Python
 
