@@ -1,4 +1,4 @@
-## Tip Calculator 💰
+# Tip Calculator 💰
 
 A simple Python program that calculates how much each person should pay when splitting a bill including a tip.
 
